@@ -15,11 +15,8 @@
             padding: 50px;
         }
 
-        /* Heading styles */
-        h1 {
-            font-size: 36px;
-            margin-bottom: 20px;
-        }
+    
+
 
         /* Message box styles */
         .message-box {
