@@ -25,8 +25,7 @@
         .message-box {
             background-color: #d63031; /* Red background */
             padding: 20px;
-            border-radius: 10px;
-        }
+            
 
         /* Link styles */
         a {
